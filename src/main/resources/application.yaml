@@ -1,0 +1,11 @@
+person:
+  last_name: zhangsan
+  age: 12
+  sex: 男
+  likes:
+    - book
+    - movie
+    - girl
+spring:
+  profiles:
+    active: test
